@@ -1,0 +1,8 @@
+1. What is a React Component?
+    A function that returns React Elements or UI.
+
+2. What’s wrong with the code?
+    The starting letter should be capitalized before making a JSX Component 
+
+3. What’s wrong with the code?
+    If the function is in JSX then to render the function, we have to give <MyFn /> like this.
